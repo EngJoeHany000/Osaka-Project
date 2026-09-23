@@ -60,7 +60,7 @@ span {
 }
 .sec-1 {
   min-height: 100vh;
-  background-image: url(/Images/header-bg.jpg);
+  background-image: url(../Images/header-bg.jpg);
   background-size: cover;
   background-position: center center;
 }
